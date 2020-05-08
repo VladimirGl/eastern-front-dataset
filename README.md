@@ -1,12 +1,12 @@
 # Eastern Front Dataset (WWII)
 
-This repo contains details about USSR Eastern Front WWII veterans dataset extracted from the [Pamyat Naroda](https://foto.pamyat-naroda.ru) website.
+This repo contains details about the USSR Eastern Front WWII veterans dataset extracted from the [Pamyat Naroda](https://foto.pamyat-naroda.ru) website.
 
 ![Example Photos Image](example.png)
 
-Data contains about 1.1 million of records about veterans, including personal information and information about the military service. More than half of records contain photo (provided as direct url).
+Data contains about 1.1 million records about veterans, including personal information and information about the military service. More than half of the records contain photos (provided as direct URL).
 
-Use notebook provided for quick analysis and some data processing.
+Notebook for quick analysis and some data processing provided. `data.csv.zip` contains raw data, `data_processed.csv.zip` contains data with cleaned dates (result of notebook run).
 
 This data is used to create [Greetings From The Past](https://greetingsfromthepast.net) demo. Animation of WWII (Eastern Front) casualties.
 
