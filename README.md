@@ -5,4 +5,4 @@ This repo contains details about USSR Eastern Front WWII veterans dataset extrac
 
 Data contains about 1.1 million of records about veterans, including personal information and information about the military service. More than half of records contain photo (provided as direct url).
 
-This data is used to create [https://greetingsfromthepast.net](Greetings From The Past) demo. Animation of WWII (Eastern Front) casualties.
+This data is used to create [Greetings From The Past](https://greetingsfromthepast.net) demo. Animation of WWII (Eastern Front) casualties.
